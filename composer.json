@@ -1,7 +1,5 @@
 {
-    "name": "dropbox/dropbox-sdk",
-    "description": "Dropbox SDK for PHP",
-    "keywords" : [ "dropbox" ],
+    "name": "seamlessdocs/dropbox-sdk",
 
     "license": "MIT",
 
